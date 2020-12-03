@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelUserStore">
+    <attachedFolders />
+    <explicitIncludes />
+    <explicitExcludes>
+      <Path>TestGo.Web/App/.git</Path>
+      <Path>TestGo.Web/App/.idea</Path>
+      <Path>TestGo.Web/App/node_modules</Path>
+    </explicitExcludes>
+  </component>
+</project>

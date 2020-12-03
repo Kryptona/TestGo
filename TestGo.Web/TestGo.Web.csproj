@@ -25,4 +25,26 @@
       <Content Remove="App\node_modules\**" />
     </ItemGroup>
 
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="wwwroot\asset-manifest.json" />
+      <_ContentIncludedByDefault Remove="wwwroot\favicon.ico" />
+      <_ContentIncludedByDefault Remove="wwwroot\index.html" />
+      <_ContentIncludedByDefault Remove="wwwroot\logo192.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\logo512.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\manifest.json" />
+      <_ContentIncludedByDefault Remove="wwwroot\robots.txt" />
+      <_ContentIncludedByDefault Remove="wwwroot\static\css\main.c9b4b548.chunk.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\static\css\main.c9b4b548.chunk.css.map" />
+      <_ContentIncludedByDefault Remove="wwwroot\static\js\2.f6a4654d.chunk.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\static\js\2.f6a4654d.chunk.js.LICENSE.txt" />
+      <_ContentIncludedByDefault Remove="wwwroot\static\js\2.f6a4654d.chunk.js.map" />
+      <_ContentIncludedByDefault Remove="wwwroot\static\js\3.6d402a39.chunk.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\static\js\3.6d402a39.chunk.js.map" />
+      <_ContentIncludedByDefault Remove="wwwroot\static\js\main.735d7cbb.chunk.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\static\js\main.735d7cbb.chunk.js.map" />
+      <_ContentIncludedByDefault Remove="wwwroot\static\js\runtime-main.4d1b084a.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\static\js\runtime-main.4d1b084a.js.map" />
+      <_ContentIncludedByDefault Remove="wwwroot\static\media\logo.6ce24c58.svg" />
+    </ItemGroup>
+
 </Project>
